@@ -7,7 +7,7 @@ title: 개인정보 처리방침 - 마음카드
 
 **마음카드 (Heart Cards)**
 
-최종 수정일: 2026년 2월 15일
+최종 수정일: 2026년 11월 14일
 
 ## 1. 수집하는 개인정보
 
@@ -47,6 +47,10 @@ title: 개인정보 처리방침 - 마음카드
 | Apple App Store | Apple | 인앱 구매 | [링크](https://www.apple.com/legal/privacy/) |
 | Google Play Store | Google | 인앱 구매 | [링크](https://policies.google.com/privacy) |
 
+### 선택적 언어팩 다운로드
+
+새 버전에서 언어팩 다운로드를 선택하면 GitHub Pages에서 해당 언어의 질문·힌트 JSON 파일을 HTTPS로 내려받습니다. 다운로드한 언어팩과 언어 선택은 기기에 저장되며 이후 오프라인으로 사용할 수 있습니다. 이 다운로드 요청에 참여자 이름, 대화 내용 또는 구매 기록을 포함하지 않습니다. 호스팅 제공사는 요청을 제공하고 보안을 유지하기 위해 IP 주소와 요청 시각 등 기술 정보를 처리할 수 있습니다. 자세한 내용은 [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)을 참고하세요. 다운로드 파일은 데이터이며 실행 코드를 포함하지 않습니다.
+
 ## 4. 데이터 보관 및 삭제
 
 - 앱 사용 데이터는 Firebase에 익명화되어 저장됩니다.
@@ -73,7 +77,7 @@ title: 개인정보 처리방침 - 마음카드
 
 개인정보 관련 문의사항이 있으시면 아래로 연락해 주세요.
 
-- 이메일: support@heartcards.app
+- 이메일: soohan0808@gmail.com
 
 ---
 
@@ -81,7 +85,7 @@ title: 개인정보 처리방침 - 마음카드
 
 **Heart Cards (마음카드)**
 
-Last updated: February 15, 2026
+Last updated: November 14, 2026
 
 ## 1. Information We Collect
 
@@ -116,6 +120,10 @@ Collected information is used solely for:
 | Apple App Store | Apple | In-app purchases | [Link](https://www.apple.com/legal/privacy/) |
 | Google Play Store | Google | In-app purchases | [Link](https://policies.google.com/privacy) |
 
+### Optional language-pack downloads
+
+In versions offering language downloads, choosing a download requests that language's question-and-hint JSON file over HTTPS from GitHub Pages. Downloaded packs and your language choice are stored on your device for offline use. These content requests do not include player names, conversation answers, or purchase records. The hosting provider may process technical request information, such as IP addresses and timestamps, to deliver and secure the service. See the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Downloaded files contain data, not executable code.
+
 ## 4. Data Retention and Deletion
 
 - Usage data is stored anonymously in Firebase.
@@ -140,4 +148,4 @@ This privacy policy may be updated. Changes will be communicated through in-app 
 
 For privacy-related inquiries, please contact us at:
 
-- Email: support@heartcards.app
+- Email: soohan0808@gmail.com
